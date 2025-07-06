@@ -5,7 +5,7 @@ layout: main
 
 <img class="profile-picture" src="profile-picture.jpeg">
 
-I am currently an MSc Data Science student at [EPFL](https://epfl.ch) and a Research Student Assistant at [NLP lab](https://nlp.epfl.ch) supervised by Prof. [Antoine Bosselut](https://atcbosselut.github.io/).
+I am currently an MSc Data Science student at [EPFL](https://epfl.ch) and a Research Intern at [SwissAI](https://www.swiss-ai.org/) (ETHZ \& EPFL AI Centers). Prior to this, I worked as a Research Assistant at the [NLP lab](https://nlp.epfl.ch) supervised by Prof. [Antoine Bosselut](https://atcbosselut.github.io/).
 
 <p align="left">
   <a href="mailto:jakhongir.saydaliev@epfl.ch">
@@ -53,7 +53,7 @@ I am currently an MSc Data Science student at [EPFL](https://epfl.ch) and a Rese
 ## <span class="section-bar"></span> Relevant Experience
 
 1. **ML Research Intern**. [Logitech](https://www.logitech.com/). Lausanne, Switzerland. <span class="dates">Sep. 2025 - Feb. 2026</span> <br> Computer use; LLM agents.
-1. **Summer Intern**. [SwissAI](https://www.swiss-ai.org/). Zurich, Switzerland. <span class="dates">Jun. 2025 - Sep. 2025</span> <br> Reasoning for vision language models through reinforcement learning.
+1. **Summer Research Intern**. [SwissAI](https://www.swiss-ai.org/). Zurich, Switzerland. <span class="dates">Jun. 2025 - Sep. 2025</span> <br> Reasoning for vision language models through reinforcement learning.
 1. **Student Research Assistant**. [NLP lab](https://nlp.epfl.ch). EPFL, Switzerland. <span class="dates">Jun. 2024 - Jun. 2025</span> <br> Multilingual Pretrain Data Collection<sup>[[1]](#conlid)</sup>; Multimodal Reasoning<sup>[[a]](#multimodal-reasoning)</sup>.
 1. **Student Research Assistant**. [DHLAB](https://www.epfl.ch/labs/dhlab/). EPFL, Switzerland. <span class="dates">Feb. 2024 - Sep. 2024.</span> <br> Text-to-SQL system; LLM agents development<sup>[[2]](#llm-agents)</sup>.
 1. **Data Analyst**. [Fater](https://www.fatergroup.com/en). Italy. <span class="dates">Nov. 2022 - May. 2023.</span>
